@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.chicken{
+    text-align: center;
+}
+
+#menu{
+    border: 3px solid black;
+    background: rgb(142, 142, 142);
+    width: 100%;
+}
